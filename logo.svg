@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="180" viewBox="0 0 180 180">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1ead5e"/>
+      <stop offset="100%" stop-color="#4ce5d1"/>
+    </linearGradient>
+  </defs>
+  <rect width="180" height="180" rx="48" fill="url(#g)"/>
+  <text x="90" y="95" font-family="Apple SD Gothic Neo, Malgun Gothic, NanumGothic, sans-serif" font-size="64" font-weight="700" fill="white" text-anchor="middle" dominant-baseline="middle">더블</text>
+</svg>
